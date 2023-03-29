@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @60928375092815
 - 👀 I’m interested in coding for food.
-- 🌱 I’m currently learning python, js, & more.
-- 💞️ I’m not looking to collaborate on anything ...
+- 🌱 I’m currently learning python, js, Cloud (GCP & AWS) & more.
+- 💞️ I’m not looking to collaborate on something ...
 - 📫 How to reach me ...
 
 <!---
