@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding for food.
 - 🌱 I’m currently learning python, js, Cloud (GCP & AWS) & more.
 - 💞️ I’m not looking to collaborate on something ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... Well, how about not doing that. 
 
 <!---
 60928375092815/60928375092815 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
